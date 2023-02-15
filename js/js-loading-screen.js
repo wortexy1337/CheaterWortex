@@ -1,0 +1,1 @@
+$(()=>{$('.page-loading-spinner').css('display','none');$('#main-content').css('display','block');});
